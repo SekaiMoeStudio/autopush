@@ -1,0 +1,13 @@
+[mirror]
+from = [
+    "git.example.com/repo1.git",
+    "git.example.com/repo2.git"
+]
+to = [
+    "dabao1955/repo1",
+    "dabao1955/repo2"
+]
+branch = [
+    "main",
+    "master"
+]
